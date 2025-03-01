@@ -12,7 +12,7 @@ public class Main {
             System.out.print("Me diga seu sobrenome: ");
             String sobrenome = scanner.next();
 
-            int n = nome.length() + sobrenome.length();
+            int n = nome.length() + sobrenome.length();//teste
 
             System.out.print("Olá " + nome + " " +  sobrenome + " Seu nome tem " + n + " letras " );
         }
